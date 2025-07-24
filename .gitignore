@@ -1,0 +1,26 @@
+# 📦 Node (React)
+client/node_modules/
+client/build/
+client/.env
+
+# 🐍 Python
+server/__pycache__/
+server/.env
+server/venv/
+server/*.pyc
+
+# 📁 ML models & data (in project root)
+models/
+data/
+
+# 🛠 General
+*.log
+*.DS_Store
+.env
+.vscode/
+.idea/
+*.sqlite3
+*.db
+
+# ⚠️ Virtual env at project root
+venv/
