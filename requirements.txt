@@ -7,7 +7,4 @@ pandas
 requests
 gunicorn
 
---- FIX APPLIED HERE ---
-Switched from 'tensorflow' to 'tensorflow-cpu' for better compatibility
-with cloud deployment environments like Render.
 tensorflow-cpu
